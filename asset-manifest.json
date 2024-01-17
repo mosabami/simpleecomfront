@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simpleecomfront/static/css/main.131de40c.css",
+    "main.js": "/simpleecomfront/static/js/main.c3e3f318.js",
+    "static/js/787.9a645ce9.chunk.js": "/simpleecomfront/static/js/787.9a645ce9.chunk.js",
+    "index.html": "/simpleecomfront/index.html",
+    "main.131de40c.css.map": "/simpleecomfront/static/css/main.131de40c.css.map",
+    "main.c3e3f318.js.map": "/simpleecomfront/static/js/main.c3e3f318.js.map",
+    "787.9a645ce9.chunk.js.map": "/simpleecomfront/static/js/787.9a645ce9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.131de40c.css",
+    "static/js/main.c3e3f318.js"
+  ]
+}
